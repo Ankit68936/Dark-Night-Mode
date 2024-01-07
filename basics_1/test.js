@@ -12,3 +12,4 @@ const newNums = myNums.filter((num) => {
 
 const newNum = myNums.map((num) => num + 1);
 console.log(newNum);
+
